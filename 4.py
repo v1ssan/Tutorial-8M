@@ -2,6 +2,8 @@ n = 100
 m = 50
 nums = list(range(n))
 
+'Answer the following questions in terms of n and m.'
+
 '1. What is the time complexity of the code below?'
 total = 0
 for x in nums:
