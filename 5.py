@@ -9,6 +9,5 @@ Each PIN must:
 
 Example
 	1472 = invalid
-	2759 = invalid
 	8541 = valid
 '''
